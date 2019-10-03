@@ -22,3 +22,9 @@ https://busy.org/@anpigon/flutter-2-write-your-first-flutter-app-part-1
 
 Flutter camera plug-in
 https://flutter-ko.dev/docs/cookbook/plugins/picture-using-camera
+
+image_picker_saver 0.3.0 install
+https://pub.dev/packages/image_picker_saver#-installing-tab-
+
+simple_permissions: ^0.1.9
+https://pub.dev/packages/simple_permissions#-installing-tab-
