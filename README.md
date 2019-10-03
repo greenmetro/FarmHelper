@@ -19,3 +19,6 @@ https://medium.com/flutter-community/flutter-mlkit-8039ec66b6a
 
 Flutter Use an external package
 https://busy.org/@anpigon/flutter-2-write-your-first-flutter-app-part-1
+
+Flutter camera plug-in
+https://flutter-ko.dev/docs/cookbook/plugins/picture-using-camera
